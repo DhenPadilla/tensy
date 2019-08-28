@@ -1,0 +1,31 @@
+{
+	"name": "",
+	"description": "",
+	"version": "0.0.0",
+	"private": true,
+	"author": "Brian Frichette",
+	"homepage": "",
+	"contributors": [
+		"Brian Frichette <brian.frichette@gmail.com> (https://github.com/brian-frichette)"
+	],
+	"bugs": {
+		"url": ""
+	},
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"dependencies": {
+		"lapack": "^0.1.0",
+		"tensify": "^0.0.4",
+		"wordnet-db": "^3.1.11"
+	},
+	"devDependencies": {},
+	"keywords": [],
+	"repository": "",
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/MIT"
+		}
+	]
+}
